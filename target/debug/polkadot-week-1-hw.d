@@ -1,0 +1,1 @@
+/Users/fatihbahadir/Desktop/polkadot-bootcamp-homeworks/week-1/polkadot-week-1-hw/target/debug/polkadot-week-1-hw: /Users/fatihbahadir/Desktop/polkadot-bootcamp-homeworks/week-1/polkadot-week-1-hw/src/main.rs
